@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\AS_Projects\android-ws-rest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="59a0f391c49af92086a21c4f4011bb829547979b">
+        <dex dex="C:\AS_Projects\android-ws-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a5ce60753e678aa98f5079a7523fac881a1682ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lsi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\AS_Projects\android-ws-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_a74289b4d56842283bfe6f9e41157baaa8b5fe22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AS_Projects\android-ws-rest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b152e10318f59c749f832d1a001100bf0f05f50b">
+        <dex dex="C:\AS_Projects\android-ws-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_75020e647d41766c4fb8dbe4a4631ee130593aad\classes.dex" />
+    </item>
+
+</items>
